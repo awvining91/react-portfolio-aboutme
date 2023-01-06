@@ -2,12 +2,12 @@
 
 import React, { useState } from "react";
 import Header from "../src/components/Header";
-import About from "../src/components/About";
-import Contact from "../src/components/Contact";
-import Portfolio from "../src/components/Portfolio";
-import Resume from "../src/components/Resume";
-import Footer from "../src/components/Footer";
-import { Helmet } from "react-helmet";
+//import About from "../src/components/About";
+//import Contact from "../src/components/Contact";
+//import Portfolio from "../src/components/Portfolio";
+//import Resume from "../src/components/Resume";
+//import Footer from "../src/components/Footer";
+//import { Helmet } from "react-helmet";
 import "./App.css";
 
 function App() {
@@ -17,8 +17,8 @@ function App() {
   // This helps us "go" to the correct section of the website. :)
 
   const renderTab = () => {
-    if (currentTab === "About") {
-      return <About />;
+    //if (currentTab === "About") {
+     // return <About />;
     }
     if (currentTab === "Contact") {
       return <Contact />;
@@ -46,6 +46,6 @@ function App() {
       <Footer></Footer>
     </>
   );
-}
+//}
 
 export default App;
