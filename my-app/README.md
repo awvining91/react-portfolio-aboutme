@@ -31,9 +31,26 @@ I am also in the middle of moving to a different state so that is taking up a lo
 
 I'm still deciding on the layout of the front-end and once I decide on something I'll update the components and try to finish up the site and deploy it. 
 
+The main parts I worked on after running npx create-react app my app was the app.js file, and the index files in the Nav and Header folders in the master components file.
+
+I haven't been able to work on this as much as I wanted to yet. I'm trying to finish up old assignments, preparing for project three and brushing up on old concepts, super busy/tired at my retail job and I'm preparing to move out of state so it's pretty hectic.
+
+Thanks for taking a look at my work even though I haven't finished yet. I hope you have a great 2023.
+
 Have a great day!!! :)
 
+-Will
+
 ## Github Link
+https://github.com/awvining91/react-portfolio-aboutme/tree/main/my-app
+
+## Github Pages Link
+
+https://awvining91.github.io/react-portfolio-aboutme/
+
+(I haven't finished up my work yet so there is an error)
+
+
 
 ## References Used
 
