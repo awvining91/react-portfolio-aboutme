@@ -42,9 +42,23 @@ Have a great day!!! :)
 
 - Class exercises
 
+- https://reactjs.org/docs/components-and-props.html
+
 - Going to Office Hours with TA and instructor
 
+- https://www.youtube.com/watch?v=bmpI252DmiI
+
+- https://www.youtube.com/watch?v=G-Cr00UYokU 
+
+- https://www.freecodecamp.org/news/build-portfolio-website-react/
+
+- https://buttercms.com/blog/build-a-portfolio-website-with-react/
+
 - Youtube.com
+
+- https://www.youtube.com/watch?v=0h2b4ftbZcU
+
+- https://profy.dev/article/react-projects-for-your-portfolio
 
 - Stackoverflow.com
 
