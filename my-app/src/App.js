@@ -14,6 +14,8 @@ function App() {
   const [currentTab, handleTabChange] = useState("about");
 
  
+  // This helps us "go" to the correct section of the website. :)
+
   const renderTab = () => {
     if (currentTab === "About") {
       return <About />;
